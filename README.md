@@ -18,9 +18,9 @@ Confusion Matrix :
 
 Normalised Confusion Matrix : 
 
-<img src="!https://github.com/Bismanpal-Singh/Infant-cry-classifyer/assets/83641114/f10ea9eb-2c71-470f-9dcd-cf7bff783533" width=50% height=50%>
+<img src="https://github.com/Bismanpal-Singh/Infant-cry-classifyer/assets/83641114/f10ea9eb-2c71-470f-9dcd-cf7bff783533" width=50% height=50%>
 
 Table comparing the accuracies we reached : 
 
-<img src="!https://github.com/Bismanpal-Singh/Infant-cry-classifyer/assets/83641114/28f6a2c8-abd5-47ac-998e-bce84236ecab" width=50% height=50%>
+<img src="https://github.com/Bismanpal-Singh/Infant-cry-classifyer/assets/83641114/28f6a2c8-abd5-47ac-998e-bce84236ecab" width=50% height=50%>
 
