@@ -7,7 +7,7 @@ Infant crying noises analysis is essential for understanding and addressing the 
 
 # Results 
 
-![t-a4-cmatrixhalf-transformed](https://github.com/Bismanpal-Singh/Infant-cry-classifyer/assets/83641114/a8467dcf-9a42-4e91-b7f7-1d768c348bb2)
+![t-a4-cmatrixhalf-transformed](https://github.com/Bismanpal-Singh/Infant-cry-classifyer/assets/83641114/a8467dcf-9a42-4e91-b7f7-1d768c348bb2 =250x250)
 ![t-a4-cmatrixnormal-transformed](https://github.com/Bismanpal-Singh/Infant-cry-classifyer/assets/83641114/7010d57c-1c10-4187-95f7-259642cdb4dc)
 
 ![t-a4-loss-transformed](https://github.com/Bismanpal-Singh/Infant-cry-classifyer/assets/83641114/d555289a-5335-4fdc-bc81-0ea726e9c65d)
