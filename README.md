@@ -9,10 +9,13 @@ Infant crying noises analysis is essential for understanding and addressing the 
 Transformer Accuracy : 80.44%
 
 LOSS CURVE : 
+
 <img src="https://github.com/Bismanpal-Singh/Infant-cry-classifyer/assets/83641114/dc355e91-5637-4795-8acd-55050e50f0af" width=50% height=50%>
 
 Confusion Matrices :
+
 <img src="https://github.com/Bismanpal-Singh/Infant-cry-classifyer/assets/83641114/98e04252-20c8-4e67-9cb4-5437b9dadd68" width=50% height=50%>
+
 <img src="!https://github.com/Bismanpal-Singh/Infant-cry-classifyer/assets/83641114/f10ea9eb-2c71-470f-9dcd-cf7bff783533" width=50% height=50%>
 
 
