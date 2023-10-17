@@ -1,4 +1,5 @@
 # Infant Cry Classifyer
+For In-Depth details talking about each component and technology being used, open the notebook (.ipynb file).
 ![transformer](https://github.com/Bismanpal-Singh/Infant-cry-classifyer/assets/83641114/52dc66e5-fbdf-4008-81e7-e389a156792a)
  [General Overview of the layout]
 # Abstract 
