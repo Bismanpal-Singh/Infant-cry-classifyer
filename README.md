@@ -12,11 +12,15 @@ LOSS CURVE :
 
 <img src="https://github.com/Bismanpal-Singh/Infant-cry-classifyer/assets/83641114/dc355e91-5637-4795-8acd-55050e50f0af" width=50% height=50%>
 
-Confusion Matrices :
+Confusion Matrix :
 
 <img src="https://github.com/Bismanpal-Singh/Infant-cry-classifyer/assets/83641114/98e04252-20c8-4e67-9cb4-5437b9dadd68" width=50% height=50%>
 
+Normalised Confusion Matrix : 
+
 <img src="!https://github.com/Bismanpal-Singh/Infant-cry-classifyer/assets/83641114/f10ea9eb-2c71-470f-9dcd-cf7bff783533" width=50% height=50%>
 
+Table comparing the accuracies we reached : 
 
+<img src="!https://github.com/Bismanpal-Singh/Infant-cry-classifyer/assets/83641114/28f6a2c8-abd5-47ac-998e-bce84236ecab" width=50% height=50%>
 
